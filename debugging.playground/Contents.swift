@@ -85,7 +85,7 @@ class Foo {
 }
 
 //: [EXPLAIN YOUR ANSWER TO Q3 HERE]
-
+//This method just had a dictionary that was improperly initialized. Just changed that and made function static.
 
 //: **Do not** change anything below.
 //: You should be able to call the methods as is.
